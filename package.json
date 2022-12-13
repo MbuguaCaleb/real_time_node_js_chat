@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/MbuguaCaleb/real_time_node_js_chat#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "moment": "^2.27.0",
     "socket.io": "^2.3.0"
   },
